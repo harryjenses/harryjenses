@@ -276,6 +276,7 @@ jQuery(document).ready(function($) {
   siteScroll();
 
 
+<<<<<<< HEAD
   var counter = function() {
 		
 		$('#about-section').waypoint( function( direction ) {
@@ -304,4 +305,6 @@ jQuery(document).ready(function($) {
 
 
 
+=======
+>>>>>>> ec4e45d99c558b3e58f92d18f4ae02c82f32c24c
 });
